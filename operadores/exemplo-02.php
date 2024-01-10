@@ -10,6 +10,4 @@ $valorTotal *= .9;
 
 echo $valorTotal;
 
-
-
 ?>
